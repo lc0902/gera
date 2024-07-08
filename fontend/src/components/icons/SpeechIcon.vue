@@ -1,0 +1,3 @@
+<template>
+    <svg t="1710960031893" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="18206" width="200" height="200"><path d="M0 0h1024v1024H0z" fill="#f54d06" fill-opacity="0" p-id="18207" data-spm-anchor-id="a313x.search_index.0.i14.7bc93a81XOgTe7" class="selected"></path><path d="M550.4 115.2v793.6H473.6V115.2h76.8z m-179.2 192v409.6H294.4V307.2h76.8z m358.4 0v409.6h-76.8V307.2h76.8zM192 409.6v204.8H115.2V409.6H192z m716.8 0v204.8H832V409.6h76.8z" fill="#f54d06" fill-opacity=".45" p-id="18208" data-spm-anchor-id="a313x.search_index.0.i15.7bc93a81XOgTe7" class=""></path></svg>
+</template>
